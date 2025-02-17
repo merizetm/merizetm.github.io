@@ -13,9 +13,9 @@ title                    : "Mérizette Maxime" # / Site Title"
 title_separator          : "-"
 name                     : &name "Mérizette Maxime"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://merizetm.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "merizetm/merizetm.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Mérizette Maxime"
   pronouns         : # example: "she/her"  
-  bio              : "Phd student on deep learning point clouds segmentatio"
+  bio              : "Phd student on deep learning point clouds segmentation"
   location         : "Rennes"
   employer         : "QUARTA - GeF - Cedric"
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/maxime-mérizette-b68824350
+  linkedin         : maxime-mérizette-b68824350
   mastodon         : https://mastodon.social/@merizetm
   medium           : # URL
   pinterest        : # Username
